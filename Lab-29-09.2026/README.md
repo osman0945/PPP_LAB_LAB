@@ -1,7 +1,7 @@
-# PPS Lab Programs
-## Lab Date: 29-09-2026
+PPS Lab Program
+Lab Date: 29-09-2026
 
-### Programs Completed
+Programs Completed
 
 1. Program to find the sum of two numbers.
 2. Program to find the largest of two numbers.
